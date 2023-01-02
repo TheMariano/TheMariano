@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Mariano;I'm+18+years+old;I+from+Brasil,+PE;I+study+software+engineer+at+pítagoras;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Mariano;I'm+18+years+old;I+from+Brasil,+PE;I+study+software+engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center"> 
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TheMariano&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Mariano github stats" /> 
@@ -17,7 +17,6 @@
         <h1 align="center">Redes Sociais <3</h1><br>
 <a href="https://www.instagram.com/matheus.soft/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a><br>
 <a href="mailto: contato.matheusmrn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/matheusmrn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a><br>
 <a href="https://www.youtube.com/@matheusmn" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"</a><br>
 </div><br>
 <h1></h1>
