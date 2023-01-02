@@ -15,10 +15,10 @@
       <div style="display: inline_block"><br>
         <img align="left" height="250" alt="coding-time" src="giphy.gif">
         <h1 align="center">Redes Sociais <3</h1><br>
-<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a><br>
+<a href="https://www.instagram.com/matheus.soft/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a><br>
 <a href="mailto: contato.matheusmrn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/matheusmrn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a><br>
-<a href="https://www.youtube.com/@matheus.mariano" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"</a><br>
+<a href="https://www.youtube.com/@matheusmn" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"</a><br>
 </div><br>
 <h1></h1>
 
