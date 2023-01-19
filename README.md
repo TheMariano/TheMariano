@@ -18,7 +18,7 @@
 <a href="https://www.instagram.com/matheus.soft/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a><br>
 <a href="mailto: contato.matheusmrn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <a href="https://www.youtube.com/@matheusmn" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"</a><br>
-</div><br>
+</div><br><br>
 <h1></h1>
 
 ### Main skills:
